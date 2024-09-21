@@ -10,8 +10,6 @@ Data Storage in MySQL: Efficiently stores the scraped data in a structured MySQL
 
 Interactive Streamlit Application: Offers a user-friendly interface for filtering and analyzing the bus service data. Users can filter results based on bus type, route, price range, star rating, and seat availability.
 
-Data Analysis and Visualization: Provides clear insights through data visualizations, helping users make informed decisions about bus travel options.
-
 **Technologies Used**
 
 Selenium: For web scraping and browser automation.
